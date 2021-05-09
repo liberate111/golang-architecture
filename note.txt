@@ -1,0 +1,20 @@
+Versioning codebase
+https://semver.org/
+
+git tag v0.0.1
+git push --tags
+
+Access versions
+git tag v0.0.2
+git push --tags
+git log
+
+Click on RELEASES in github. Then you can
+click on the commit number and click BROWSE FILES
+You can pull down different versions of the code with
+
+git checkout v0.0.1
+
+remember to checkout master when you’re done
+git checkout master
+
